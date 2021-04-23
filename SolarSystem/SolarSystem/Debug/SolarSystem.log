@@ -1,0 +1,18 @@
+﻿  GLUTCallBacks.cpp
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.h(43,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SolarSystem.cpp
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.h(43,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(94,21): warning C4244: 'argument': conversion from 'float' to 'GLenum', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(94,14): warning C4244: 'argument': conversion from 'float' to 'GLenum', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(205,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(244,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(286,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(291,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(302,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(303,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.cpp(304,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\SolarSystem\SolarSystem.h(43,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  SolarSystem.vcxproj -> C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 2\SolarSystem\Debug\SolarSystem.exe
